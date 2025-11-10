@@ -1,0 +1,19 @@
+div {
+    align-items: center;
+    color: blue;
+    height: 150px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    border: 5px solid black;
+    float: left;
+    margin: 5px;
+    width: 15%;
+    padding: 20px;
+    text-align: center;
+}
+
+.done {
+text-decoration: line-through;
+color: gray;
+}
